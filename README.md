@@ -14,4 +14,8 @@ Be sure to check out [Keras' Documentation][keras] before you start out!
 # Special Thanks
 - [ebonnecab][ebonne]: awesome, easy-to-read project files
 
+## Further Reading
+- [`df.loc()` and `df.iloc()`][dataframe, not series]
+
 [ebonne]: https://github.com/ebonnecab
+[dataframe, not series]: https://stackoverflow.com/questions/16782323/python-pandas-keep-selected-column-as-dataframe-instead-of-series
